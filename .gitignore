@@ -1,2 +1,4 @@
 /hw2/.ipynb_checkpoints
 /hw2/data/
+/Kaggle_competition/*
+!/Kaggle_competition/SmokerClassification.ipynb
